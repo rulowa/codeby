@@ -1,1 +1,1 @@
-<pre>system('id')</pre>
+<pre>system('ls -la /home/kiddie')</pre>
