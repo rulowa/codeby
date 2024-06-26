@@ -1,3 +1,1 @@
-<?PHP
-Header('location: file:///etc/passwd');
-?>
+<?php header("Location: file:///etc/passwd");?>
